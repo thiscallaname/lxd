@@ -1,0 +1,94 @@
+<layout name="layout" />
+
+        <!-- Slider Start -->
+        <section id="global-header">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <div class="block">
+                  <h1>Drop Us A Note</h1>
+                  <p>Don’t just take our word for it. Check out some of our latest work.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- contact form start -->
+        <section id="contact-form">
+        <form action="{:U('Index/check_verify')}" method="post">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-6 col-sm-12">
+                <div class="block">
+                    <div class="form-group">
+                      <input id="name" name="name" type="text" class="form-control" placeholder="Your Name">
+                    </div>
+                    <div class="form-group">
+                      <input id="email" name="email" type="text" class="form-control" placeholder="Email Address">
+                    </div>
+                    <div class="form-group">
+                      <input id="subject" name="subject" type="text" class="form-control" placeholder="Subject">
+                    </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-sm-12">
+                <div class="block">
+                    <div class="form-group">
+                      <textarea id="content" name="content" class="form-control" rows="2" placeholder="Your Message"></textarea>
+                    </div>
+                  <div class="row block">
+                    <div class="col-md-6" style="padding-left: -15px; padding-bottom: 15px;">
+                      <input id="j_verify" name="j_verify" type="text" placeholder="Verification code" style="padding: 6px 12px;">
+                    </div>
+                    <div class="col-md-6">
+                      <img id="verify_img" src="{:U('index/verify', array())}" class="m" alt="点击更换" title="点击更换">
+                    </div>
+                  </div>
+                    <button class="btn btn-default" type="submit">Send Message</button>
+
+                </div>
+              </div>
+             </form>
+            </div>
+            <div id="contact-box" class="row">
+              <div class="col-md-6 col-sm-12">
+                <div class="block">
+                  <h2>Stop By For A Visit</h2>
+                  <ul class="address-block">
+                    <li>
+                      <i class="fa fa-user"></i> Manager Huang
+                    </li>
+                    <li>
+                      <i class="fa fa-envelope-o"></i> Email: sales@aiermart.com
+                    </li>
+                    <li>
+                      <i class="fa fa-phone"></i>Phone: (+86)0512-53371508
+                    </li>
+                    <li>
+                      <i class="fa fa-phone"></i>Phone: (+86)0512-53371508
+                    </li>
+                    <li>
+                      <i class="fa fa-mobile"></i>Mobile: (+86)13776178696
+                    </li>
+                    <li>
+                      <i class="fa fa-mobile"></i>Mobile: (+86)18906220299
+                    </li>
+                    <li>
+                      <i class="fa fa-map-marker"></i>Address: Bldg.10, No.33, Changsheng North Road, Chengxiang Town, Taicang, Jiangsu, China(Mainland)
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md-6 col-sm-12">
+                <div class="block">
+                  <h2>We Also Count In Baidu Map</h2>
+                    <div class="google-map">
+                      <div id="map"></div>
+                    </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+
