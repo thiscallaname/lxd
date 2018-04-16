@@ -59,11 +59,11 @@
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                           <ul class="nav navbar-nav navbar-right">
-                            <li><a href="/lxd_think/Home/Index/index.html">Home</a></li>
-                            <li><a href="/lxd_think/Home/Index/advantages.html">Advantages</a></li>
-                            <li><a href="/lxd_think/Home/Index/products.html">Products</a></li>
-                            <li><a href="/lxd_think/Home/Index/contact.html">Contact</a></li>
-                            <li><a href="/lxd_think/Home/Index/cn_index.html">中文</a></li>
+                            <li><a href="/lxd_think/home/index/index.html">Home</a></li>
+                            <li><a href="/lxd_think/home/index/advantages.html">Advantages</a></li>
+                            <li><a href="/lxd_think/home/index/products.html">Products</a></li>
+                            <li><a href="/lxd_think/home/index/contact.html">Contact</a></li>
+                            <li><a href="/lxd_think/home/index/cn_index.html">中文</a></li>
                           </ul>
                         </div><!-- /.navbar-collapse -->
                       </div><!-- /.container-fluid -->
@@ -138,19 +138,19 @@
           <h2 >Product Advantages</h2>
           <ul class="address-block">
             <li>
-              <i class="fa fa-cog"></i> <a href="/lxd_think/Home/Index/advantages.html#1">Welding</a>
+              <i class="fa fa-cog"></i> <a href="/lxd_think/home/index/advantages.html#1">Welding</a>
             </li>
             <li>
-              <i class="fa fa-life-ring"></i><a href="/lxd_think/Home/Index/advantages.html#2"> Coil Technology</a>
+              <i class="fa fa-life-ring"></i><a href="/lxd_think/home/index/advantages.html#2"> Coil Technology</a>
             </li>
             <li>
-              <i class="fa fa-user"></i><a href="/lxd_think/Home/Index/advantages.html#3"> Custom</a>
+              <i class="fa fa-user"></i><a href="/lxd_think/home/index/advantages.html#3"> Custom</a>
             </li>
             <li>
-              <i class="fa fa-thumbs-up"></i><a href="/lxd_think/Home/Index/advantages.html#4"> Quality Assurance</a>
+              <i class="fa fa-thumbs-up"></i><a href="/lxd_think/home/index/advantages.html#4"> Quality Assurance</a>
             </li>
           </ul>
-          <a href="/lxd_think/Home/Index/advantages.html" class="btn btn-view-works">View Works</a>
+          <a href="/lxd_think/home/index/advantages.html" class="btn btn-view-works">View Works</a>
         </div>
       </div>
     </div>
@@ -168,7 +168,7 @@
           <div class="col-sm-6 col-md-4">
             <div class="service-item">
               <i></i>
-              <a href="/lxd_think/Home/Index/products.html?Single-layer">
+              <a href="/lxd_think/home/index/products.html?Single-layer">
                 <img src="/lxd_think/Public/img/portfolio/danceng/frontpage.jpg" alt="">
                 <h4>Single layer spiral coil tube</h4>
               </a>
@@ -177,7 +177,7 @@
           <div class="col-sm-6 col-md-4">
             <div class="service-item">
               <i></i>
-              <a href="/lxd_think/Home/Index/products.html?double-layer">
+              <a href="/lxd_think/home/index/products.html?double-layer">
                 <img src="/lxd_think/Public/img/portfolio/shuangceng/frontpage.jpg" alt="">
                 <h4>Double layer spiral coil tube</h4>
               </a>
@@ -186,7 +186,7 @@
           <div class="col-sm-6 col-md-4">
             <div class="service-item">
               <i></i>
-              <a href="/lxd_think/Home/Index/products.html?bent">
+              <a href="/lxd_think/home/index/products.html?bent">
                 <img src="/lxd_think/Public/img/portfolio/wanguan/frontpage.jpg" alt="">
                 <h4>Finned bent tube</h4>
               </a>
@@ -195,7 +195,7 @@
           <div class="col-sm-6 col-md-4">
              <div class="service-item">
               <i></i>
-              <a href="/lxd_think/Home/Index/products.html?logding">
+              <a href="/lxd_think/home/index/products.html?logding">
                 <img src="/lxd_think/Public/img/portfolio/daofu/frontpage.jpg" alt="">
                 <h4>Lodging-finned tube</h4>
               </a>
@@ -204,7 +204,7 @@
           <div class="col-sm-6 col-md-4">
             <div class="service-item">
               <i></i>
-              <a href="/lxd_think/Home/Index/products.html?straight">
+              <a href="/lxd_think/home/index/products.html?straight">
                 <img src="/lxd_think/Public/img/portfolio/zhiguan/frontpage.jpg" alt="">
                 <h4>Finned straight tube</h4>
               </a>
@@ -213,7 +213,7 @@
           <div class="col-sm-6 col-md-4">
             <div class="service-item">
               <i></i>
-              <a href="/lxd_think/Home/Index/products.html?transection">
+              <a href="/lxd_think/home/index/products.html?transection">
                 <img src="/lxd_think/Public/img/portfolio/xieqie/frontpage.jpg" alt="">
                 <h4>Transection of finned tube</h4>
               </a>
