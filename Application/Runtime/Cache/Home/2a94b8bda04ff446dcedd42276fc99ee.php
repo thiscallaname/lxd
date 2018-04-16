@@ -226,7 +226,7 @@
         <section id="contact-form">
           <div class="container">
             <div class="section-title" style="text-align: center;">
-              <h2><a href="./contact.html" style="color:black;">CONTACT US</a></h2>
+              <h2>CONTACT US</h2>
             </div>
             <div id="contact-box" class="row">
               <div class="col-md-5 col-md-offset-1 col-sm-12">

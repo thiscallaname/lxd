@@ -36,7 +36,7 @@ class IndexController extends Controller {
             // 'imageH' => 34
        // );
         $Verify = new Verify();
-	$Verify->length = 4;
+	    $Verify->length = 4;
         $Verify->entry();
     }
 

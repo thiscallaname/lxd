@@ -63,7 +63,7 @@
                             <li><a href="/lxd_think/Home/Index/advantages.html">Advantages</a></li>
                             <li><a href="/lxd_think/Home/Index/products.html">Products</a></li>
                             <li><a href="/lxd_think/Home/Index/contact.html">Contact</a></li>
-                            <li><a href="/lxd_think/Home/Index/#">中文</a></li>
+                            <li><a href="/lxd_think/Home/Index/cn_index.html">中文</a></li>
                           </ul>
                         </div><!-- /.navbar-collapse -->
                       </div><!-- /.container-fluid -->
