@@ -8,27 +8,27 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-    <link rel="shortcut icon" type="image/x-icon" href="/lxd_think/Public/img/aiermart.ico" media="screen" />
+    <link rel="shortcut icon" type="image/x-icon" href="/Public/img/aiermart.ico" media="screen" />
     <!-- CSS -->
-    <link rel="stylesheet" href="/lxd_think/Public/css/owl.carousel.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/font-awesome.min.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/ionicons.min.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/animate.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/responsive.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/style.css">
+    <link rel="stylesheet" href="/Public/css/owl.carousel.css">
+    <link rel="stylesheet" href="/Public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/Public/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/Public/css/ionicons.min.css">
+    <link rel="stylesheet" href="/Public/css/animate.css">
+    <link rel="stylesheet" href="/Public/css/responsive.css">
+    <link rel="stylesheet" href="/Public/css/style.css">
 
     <!-- Js -->
     <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=Ur1fqTosAMyUFxDaIjN9WgVR05GC7DfW"></script>
-    <script src="/lxd_think/Public/js/vendor/modernizr-2.6.2.min.js"></script>
-    <script src="/lxd_think/Public/js/vendor/jquery-1.10.2.min.js"></script>
-    <script>window.jQuery || document.write('<script src="/lxd_think/Public/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-    <script src="/lxd_think/Public/js/bootstrap.min.js"></script>
-    <script src="/lxd_think/Public/js/owl.carousel.min.js"></script>
-    <script src="/lxd_think/Public/js/min/waypoints.min.js"></script>
-    <script src="/lxd_think/Public/js/jquery.counterup.js"></script>
-    <script src="/lxd_think/Public/js/plugins.js"></script>
-    <script src="/lxd_think/Public/js/main.js"></script>
+    <script src="/Public/js/vendor/modernizr-2.6.2.min.js"></script>
+    <script src="/Public/js/vendor/jquery-1.10.2.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/Public/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+    <script src="/Public/js/bootstrap.min.js"></script>
+    <script src="/Public/js/owl.carousel.min.js"></script>
+    <script src="/Public/js/min/waypoints.min.js"></script>
+    <script src="/Public/js/jquery.counterup.js"></script>
+    <script src="/Public/js/plugins.js"></script>
+    <script src="/Public/js/main.js"></script>
   </head>
   <body>
 
@@ -52,18 +52,18 @@
                             <span class="icon-bar"></span>
                           </button>
                           <a class="navbar-brand" href="index.html">
-                              <img src="/lxd_think/Public/img/logo.png" alt="Logo">
+                              <img src="/Public/img/logo.png" alt="Logo">
                           </a>
                         </div>
 
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                           <ul class="nav navbar-nav navbar-right">
-                            <li><a href="/lxd_think/home/index/index.html">Home</a></li>
-                            <li><a href="/lxd_think/home/index/advantages.html">Advantages</a></li>
-                            <li><a href="/lxd_think/home/index/products.html">Products</a></li>
-                            <li><a href="/lxd_think/home/index/contact.html">Contact</a></li>
-                            <li><a href="/lxd_think/home/index/cn_index.html">中文</a></li>
+                            <li><a href="/Index/index.html">Home</a></li>
+                            <li><a href="/Index/advantages.html">Advantages</a></li>
+                            <li><a href="/Index/products.html">Products</a></li>
+                            <li><a href="/Index/contact.html">Contact</a></li>
+                            <li><a href="http://www.aiermart.cn">中文</a></li>
                           </ul>
                         </div><!-- /.navbar-collapse -->
                       </div><!-- /.container-fluid -->
@@ -106,7 +106,7 @@
           </div><!-- .col-md-7 close -->
           <div class="col-md-5 col-sm-12">
             <div class="block">
-                <img src="/lxd_think/Public/img/wrapper-img.png"  onclick="openModal(); currentSlide(1)">
+                <img src="/Public/img/wrapper-img.png"  onclick="openModal(); currentSlide(1)">
             </div>
           </div><!-- .col-md-5 close alt="Img" -->
 
@@ -122,7 +122,7 @@
                     <span class="close cursor">&times;</span>
                       <div class="modal-content">
                         <div class="mySlides">
-                          <img src="/lxd_think/Public/img/wrapper-img.png" style="width:100%">
+                          <img src="/Public/img/wrapper-img.png" style="width:100%">
                         </div>
                     </div>
                   </div>
@@ -138,19 +138,19 @@
           <h2 >Product Advantages</h2>
           <ul class="address-block">
             <li>
-              <i class="fa fa-cog"></i> <a href="/lxd_think/home/index/advantages.html#1">Welding</a>
+              <i class="fa fa-cog"></i> <a href="/Index/advantages.html#1">Welding</a>
             </li>
             <li>
-              <i class="fa fa-life-ring"></i><a href="/lxd_think/home/index/advantages.html#2"> Coil Technology</a>
+              <i class="fa fa-life-ring"></i><a href="/Index/advantages.html#2"> Coil Technology</a>
             </li>
             <li>
-              <i class="fa fa-user"></i><a href="/lxd_think/home/index/advantages.html#3"> Custom</a>
+              <i class="fa fa-user"></i><a href="/Index/advantages.html#3"> Custom</a>
             </li>
             <li>
-              <i class="fa fa-thumbs-up"></i><a href="/lxd_think/home/index/advantages.html#4"> Quality Assurance</a>
+              <i class="fa fa-thumbs-up"></i><a href="/Index/advantages.html#4"> Quality Assurance</a>
             </li>
           </ul>
-          <a href="/lxd_think/home/index/advantages.html" class="btn btn-view-works">View Works</a>
+          <a href="/Index/advantages.html" class="btn btn-view-works">View Works</a>
         </div>
       </div>
     </div>
@@ -168,8 +168,8 @@
           <div class="col-sm-6 col-md-4">
             <div class="service-item">
               <i></i>
-              <a href="/lxd_think/home/index/products.html?Single-layer">
-                <img src="/lxd_think/Public/img/portfolio/danceng/frontpage.jpg" alt="">
+              <a href="/Index/products.html?Single-layer">
+                <img src="/Public/img/portfolio/danceng/frontpage.jpg" alt="">
                 <h4>Single layer spiral coil tube</h4>
               </a>
             </div>
@@ -177,8 +177,8 @@
           <div class="col-sm-6 col-md-4">
             <div class="service-item">
               <i></i>
-              <a href="/lxd_think/home/index/products.html?double-layer">
-                <img src="/lxd_think/Public/img/portfolio/shuangceng/frontpage.jpg" alt="">
+              <a href="/Index/products.html?double-layer">
+                <img src="/Public/img/portfolio/shuangceng/frontpage.jpg" alt="">
                 <h4>Double layer spiral coil tube</h4>
               </a>
             </div>
@@ -186,8 +186,8 @@
           <div class="col-sm-6 col-md-4">
             <div class="service-item">
               <i></i>
-              <a href="/lxd_think/home/index/products.html?bent">
-                <img src="/lxd_think/Public/img/portfolio/wanguan/frontpage.jpg" alt="">
+              <a href="/Index/products.html?bent">
+                <img src="/Public/img/portfolio/wanguan/frontpage.jpg" alt="">
                 <h4>Finned bent tube</h4>
               </a>
             </div>
@@ -195,8 +195,8 @@
           <div class="col-sm-6 col-md-4">
              <div class="service-item">
               <i></i>
-              <a href="/lxd_think/home/index/products.html?logding">
-                <img src="/lxd_think/Public/img/portfolio/daofu/frontpage.jpg" alt="">
+              <a href="/Index/products.html?logding">
+                <img src="/Public/img/portfolio/daofu/frontpage.jpg" alt="">
                 <h4>Lodging-finned tube</h4>
               </a>
             </div>
@@ -204,8 +204,8 @@
           <div class="col-sm-6 col-md-4">
             <div class="service-item">
               <i></i>
-              <a href="/lxd_think/home/index/products.html?straight">
-                <img src="/lxd_think/Public/img/portfolio/zhiguan/frontpage.jpg" alt="">
+              <a href="/Index/products.html?straight">
+                <img src="/Public/img/portfolio/zhiguan/frontpage.jpg" alt="">
                 <h4>Finned straight tube</h4>
               </a>
             </div>
@@ -213,8 +213,8 @@
           <div class="col-sm-6 col-md-4">
             <div class="service-item">
               <i></i>
-              <a href="/lxd_think/home/index/products.html?transection">
-                <img src="/lxd_think/Public/img/portfolio/xieqie/frontpage.jpg" alt="">
+              <a href="/Index/products.html?transection">
+                <img src="/Public/img/portfolio/xieqie/frontpage.jpg" alt="">
                 <h4>Transection of finned tube</h4>
               </a>
             </div>
@@ -383,7 +383,7 @@
             <h4 class="modal-title" id="myModalLabel">WeChat QR Code</h4>
           </div>
           <div class="modal-body" style="text-align: center;">
-            <img src="/lxd_think/Public/img/wechat.png" alt="">
+            <img src="/Public/img/wechat.png" alt="">
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

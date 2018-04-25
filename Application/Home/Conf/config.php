@@ -3,8 +3,8 @@ return array(
 	//'配置项'=>'配置值'
     DEFAULT_MODULE => Index , //默认模块
     URL_MODEL      => 2,      //URL模式
-    // 'LAYOUT_ON'        => true,
-    // 'LAYOUT_NAME'      => 'layout',
+//    'LAYOUT_ON'        => true,
+//    'LAYOUT_NAME'      => 'layout',
     // 配置邮件发送服务器
     'MAIL_HOST' =>'smtp.aiermart.com',//smtp服务器的名称
     'MAIL_SMTPAUTH' =>TRUE, //启用smtp认证

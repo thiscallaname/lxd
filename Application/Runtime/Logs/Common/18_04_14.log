@@ -1,18 +1,93 @@
-[ 2018-04-14T14:23:16+08:00 ] ::1 /lxd_think/Public/img/slider-bg2.jpg
+[ 2018-04-14T02:46:30+08:00 ] 220.189.249.99 /manager/html
 INFO: [ app_init ] --START--
-INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
-INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+ERR: 无法加载模块:Manager
+
+[ 2018-04-14T10:50:04+08:00 ] 46.0.207.46 /user/register?element_parents=account/mail/%23value&ajax_form=1&_wrapper_format=drupal_ajax
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+ERR: 无法加载模块:User
+
+[ 2018-04-14T10:50:04+08:00 ] 46.0.207.46 /rss.php?mode=recent
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+ERR: 无法加载模块:Rss
+
+[ 2018-04-14T10:50:05+08:00 ] 46.0.207.46 /t6nv
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+ERR: 无法加载模块:T6nv
+
+[ 2018-04-14T10:54:57+08:00 ] 221.4.34.173 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+ERR: 无法加载模块:Favicon
+
+[ 2018-04-14T11:17:06+08:00 ] 221.4.34.173 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+ERR: 无法加载模块:Favicon
+
+[ 2018-04-14T11:42:01+08:00 ] 113.107.234.98 /Public/img/slider-bg2.jpg
 ERR: 无法加载模块:Public
 
-[ 2018-04-14T14:23:19+08:00 ] ::1 /lxd_think/Public/img/slider-bg2.jpg
-INFO: [ app_init ] --START--
-INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
-INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+[ 2018-04-14T11:53:01+08:00 ] 113.107.234.98 /Public/img/slider-bg2.jpg
 ERR: 无法加载模块:Public
 
-[ 2018-04-14T14:23:59+08:00 ] ::1 /lxd_think/Public/img/slider-bg2.jpg
-INFO: [ app_init ] --START--
-INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
-INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+[ 2018-04-14T11:53:03+08:00 ] 113.107.234.98 /Public/img/slider-bg2.jpg
 ERR: 无法加载模块:Public
+
+[ 2018-04-14T11:53:04+08:00 ] 113.107.234.98 /Public/img/slider-bg2.jpg
+ERR: 无法加载模块:Public
+
+[ 2018-04-14T11:53:05+08:00 ] 113.107.234.98 /Public/img/slider-bg2.jpg
+ERR: 无法加载模块:Public
+
+[ 2018-04-14T13:03:16+08:00 ] 110.4.146.19 /user/register?element_parents=account/mail/%23value&ajax_form=1&_wrapper_format=drupal_ajax
+ERR: 无法加载模块:User
+
+[ 2018-04-14T13:03:16+08:00 ] 110.4.146.19 /rss.php?mode=recent
+ERR: 无法加载模块:Rss
+
+[ 2018-04-14T13:03:16+08:00 ] 110.4.146.19 /t6nv
+ERR: 无法加载模块:T6nv
+
+[ 2018-04-14T13:04:26+08:00 ] 190.94.139.115 /user/register?element_parents=account/mail/%23value&ajax_form=1&_wrapper_format=drupal_ajax
+ERR: 无法加载模块:User
+
+[ 2018-04-14T13:04:28+08:00 ] 190.94.139.115 /rss.php?mode=recent
+ERR: 无法加载模块:Rss
+
+[ 2018-04-14T13:04:29+08:00 ] 190.94.139.115 /t6nv
+ERR: 无法加载模块:T6nv
+
+[ 2018-04-14T13:11:58+08:00 ] 191.100.10.212 /user/register?element_parents=account/mail/%23value&ajax_form=1&_wrapper_format=drupal_ajax
+ERR: 无法加载模块:User
+
+[ 2018-04-14T13:11:59+08:00 ] 191.100.10.212 /rss.php?mode=recent
+ERR: 无法加载模块:Rss
+
+[ 2018-04-14T13:12:00+08:00 ] 191.100.10.212 /t6nv
+ERR: 无法加载模块:T6nv
+
+[ 2018-04-14T14:32:47+08:00 ] 115.231.218.205 /manager/html
+ERR: 无法加载模块:Manager
+
+[ 2018-04-14T18:27:57+08:00 ] 112.132.215.38 //tags.php
+ERR: 无法加载模块:Tags
+
+[ 2018-04-14T21:51:15+08:00 ] 191.100.11.67 /user/register?element_parents=account/mail/%23value&ajax_form=1&_wrapper_format=drupal_ajax
+ERR: 无法加载模块:User
+
+[ 2018-04-14T21:51:15+08:00 ] 191.100.11.67 /rss.php?mode=recent
+ERR: 无法加载模块:Rss
+
+[ 2018-04-14T21:51:16+08:00 ] 191.100.11.67 /t6nv
+ERR: 无法加载模块:T6nv
 

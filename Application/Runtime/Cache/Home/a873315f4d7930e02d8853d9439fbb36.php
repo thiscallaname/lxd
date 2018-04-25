@@ -8,27 +8,27 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-    <link rel="shortcut icon" type="image/x-icon" href="/lxd_think/Public/img/aiermart.ico" media="screen" />
+    <link rel="shortcut icon" type="image/x-icon" href="/Public/img/aiermart.ico" media="screen" />
     <!-- CSS -->
-    <link rel="stylesheet" href="/lxd_think/Public/css/owl.carousel.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/font-awesome.min.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/ionicons.min.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/animate.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/responsive.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/style.css">
+    <link rel="stylesheet" href="/Public/css/owl.carousel.css">
+    <link rel="stylesheet" href="/Public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/Public/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/Public/css/ionicons.min.css">
+    <link rel="stylesheet" href="/Public/css/animate.css">
+    <link rel="stylesheet" href="/Public/css/responsive.css">
+    <link rel="stylesheet" href="/Public/css/style.css">
 
     <!-- Js -->
     <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=Ur1fqTosAMyUFxDaIjN9WgVR05GC7DfW"></script>
-    <script src="/lxd_think/Public/js/vendor/modernizr-2.6.2.min.js"></script>
-    <script src="/lxd_think/Public/js/vendor/jquery-1.10.2.min.js"></script>
-    <script>window.jQuery || document.write('<script src="/lxd_think/Public/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-    <script src="/lxd_think/Public/js/bootstrap.min.js"></script>
-    <script src="/lxd_think/Public/js/owl.carousel.min.js"></script>
-    <script src="/lxd_think/Public/js/min/waypoints.min.js"></script>
-    <script src="/lxd_think/Public/js/jquery.counterup.js"></script>
-    <script src="/lxd_think/Public/js/plugins.js"></script>
-    <script src="/lxd_think/Public/js/main.js"></script>
+    <script src="/Public/js/vendor/modernizr-2.6.2.min.js"></script>
+    <script src="/Public/js/vendor/jquery-1.10.2.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/Public/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+    <script src="/Public/js/bootstrap.min.js"></script>
+    <script src="/Public/js/owl.carousel.min.js"></script>
+    <script src="/Public/js/min/waypoints.min.js"></script>
+    <script src="/Public/js/jquery.counterup.js"></script>
+    <script src="/Public/js/plugins.js"></script>
+    <script src="/Public/js/main.js"></script>
   </head>
   <body>
 
@@ -52,18 +52,18 @@
                             <span class="icon-bar"></span>
                           </button>
                           <a class="navbar-brand" href="index.html">
-                              <img src="/lxd_think/Public/img/logo.png" alt="Logo">
+                              <img src="/Public/img/logo.png" alt="Logo">
                           </a>
                         </div>
 
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                           <ul class="nav navbar-nav navbar-right">
-                            <li><a href="/lxd_think/Home/Index/index.html">Home</a></li>
-                            <li><a href="/lxd_think/Home/Index/advantages.html">Advantages</a></li>
-                            <li><a href="/lxd_think/Home/Index/products.html">Products</a></li>
-                            <li><a href="/lxd_think/Home/Index/contact.html">Contact</a></li>
-                            <li><a href="/lxd_think/Home/Index/cn_index.html">中文</a></li>
+                            <li><a href="/Index/index.html">Home</a></li>
+                            <li><a href="/Index/advantages.html">Advantages</a></li>
+                            <li><a href="/Index/products.html">Products</a></li>
+                            <li><a href="/Index/contact.html">Contact</a></li>
+                            <li><a href="http://www.aiermart.cn">中文</a></li>
                           </ul>
                         </div><!-- /.navbar-collapse -->
                       </div><!-- /.container-fluid -->
@@ -244,7 +244,7 @@
             <h4 class="modal-title" id="myModalLabel">WeChat QR Code</h4>
           </div>
           <div class="modal-body" style="text-align: center;">
-            <img src="/lxd_think/Public/img/wechat.png" alt="">
+            <img src="/Public/img/wechat.png" alt="">
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

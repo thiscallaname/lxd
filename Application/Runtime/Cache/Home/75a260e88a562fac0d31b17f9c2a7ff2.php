@@ -8,27 +8,27 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-    <link rel="shortcut icon" type="image/x-icon" href="/lxd_think/Public/img/aiermart.ico" media="screen" />
+    <link rel="shortcut icon" type="image/x-icon" href="/Public/img/aiermart.ico" media="screen" />
     <!-- CSS -->
-    <link rel="stylesheet" href="/lxd_think/Public/css/owl.carousel.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/font-awesome.min.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/ionicons.min.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/animate.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/responsive.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/style.css">
+    <link rel="stylesheet" href="/Public/css/owl.carousel.css">
+    <link rel="stylesheet" href="/Public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/Public/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/Public/css/ionicons.min.css">
+    <link rel="stylesheet" href="/Public/css/animate.css">
+    <link rel="stylesheet" href="/Public/css/responsive.css">
+    <link rel="stylesheet" href="/Public/css/style.css">
 
     <!-- Js -->
     <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=Ur1fqTosAMyUFxDaIjN9WgVR05GC7DfW"></script>
-    <script src="/lxd_think/Public/js/vendor/modernizr-2.6.2.min.js"></script>
-    <script src="/lxd_think/Public/js/vendor/jquery-1.10.2.min.js"></script>
-    <script>window.jQuery || document.write('<script src="/lxd_think/Public/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-    <script src="/lxd_think/Public/js/bootstrap.min.js"></script>
-    <script src="/lxd_think/Public/js/owl.carousel.min.js"></script>
-    <script src="/lxd_think/Public/js/min/waypoints.min.js"></script>
-    <script src="/lxd_think/Public/js/jquery.counterup.js"></script>
-    <script src="/lxd_think/Public/js/plugins.js"></script>
-    <script src="/lxd_think/Public/js/main.js"></script>
+    <script src="/Public/js/vendor/modernizr-2.6.2.min.js"></script>
+    <script src="/Public/js/vendor/jquery-1.10.2.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/Public/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+    <script src="/Public/js/bootstrap.min.js"></script>
+    <script src="/Public/js/owl.carousel.min.js"></script>
+    <script src="/Public/js/min/waypoints.min.js"></script>
+    <script src="/Public/js/jquery.counterup.js"></script>
+    <script src="/Public/js/plugins.js"></script>
+    <script src="/Public/js/main.js"></script>
   </head>
   <body>
 
@@ -52,18 +52,18 @@
                             <span class="icon-bar"></span>
                           </button>
                           <a class="navbar-brand" href="index.html">
-                              <img src="/lxd_think/Public/img/logo.png" alt="Logo">
+                              <img src="/Public/img/logo.png" alt="Logo">
                           </a>
                         </div>
 
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                           <ul class="nav navbar-nav navbar-right">
-                            <li><a href="/lxd_think/Home/Index/cn_index.html">首页</a></li>
-                            <li><a href="/lxd_think/Home/Index/cn_advantages.html">优势</a></li>
-                            <li><a href="/lxd_think/Home/Index/cn_products.html">产品</a></li>
-                            <li><a href="/lxd_think/Home/Index/cn_contact.html">联系方式</a></li>
-                            <li><a href="/lxd_think/Home/Index/index.html">English</a></li>
+                            <li><a href="/Index/cn_index.html">首页</a></li>
+                            <li><a href="/Index/cn_advantages.html">优势</a></li>
+                            <li><a href="/Index/cn_products.html">产品</a></li>
+                            <li><a href="/Index/cn_contact.html">联系方式</a></li>
+                            <li><a href="/Index/index.html">English</a></li>
                           </ul>
                         </div><!-- /.navbar-collapse -->
                       </div><!-- /.container-fluid -->
@@ -110,7 +110,7 @@
           </div><!-- .col-md-7 close -->
           <div class="col-md-5 col-sm-12">
             <div class="block">
-                <img src="/lxd_think/Public/img/source/certificate/ch_cert.jpg"  onclick="openModal(); currentSlide(1)">
+                <img src="/Public/img/source/certificate/ch_cert.jpg"  onclick="openModal(); currentSlide(1)">
             </div>
           </div><!-- .col-md-5 close alt="Img" -->
 
@@ -126,7 +126,7 @@
                     <span class="close cursor">&times;</span>
                       <div class="modal-content">
                         <div class="mySlides">
-                          <img src="/lxd_think/Public/img/source/certificate/ch_cert.jpg" style="width:100%">
+                          <img src="/Public/img/source/certificate/ch_cert.jpg" style="width:100%">
                         </div>
                     </div>
                   </div>
@@ -173,7 +173,7 @@
             <div class="service-item">
               <i></i>
               <a href="cn_products.html?Single-layer">
-                <img src="/lxd_think/Public/img/portfolio/danceng/frontpage.jpg" alt="">
+                <img src="/Public/img/portfolio/danceng/frontpage.jpg" alt="">
                 <h4>单层螺旋盘管</h4>
               </a>
             </div>
@@ -182,7 +182,7 @@
             <div class="service-item">
               <i></i>
               <a href="cn_products.html?double-layer">
-                <img src="/lxd_think/Public/img/portfolio/shuangceng/frontpage.jpg" alt="">
+                <img src="/Public/img/portfolio/shuangceng/frontpage.jpg" alt="">
                 <h4>双层螺旋盘管</h4>
               </a>
             </div>
@@ -191,7 +191,7 @@
             <div class="service-item">
               <i></i>
               <a href="cn_products.html?bent">
-                <img src="/lxd_think/Public/img/portfolio/wanguan/frontpage.jpg" alt="">
+                <img src="/Public/img/portfolio/wanguan/frontpage.jpg" alt="">
                 <h4>弯管</h4>
               </a>
             </div>
@@ -200,7 +200,7 @@
              <div class="service-item">
               <i></i>
               <a href="cn_products.html?logding">
-                <img src="/lxd_think/Public/img/portfolio/daofu/frontpage.jpg" alt="">
+                <img src="/Public/img/portfolio/daofu/frontpage.jpg" alt="">
                 <h4>倒伏</h4>
               </a>
             </div>
@@ -209,7 +209,7 @@
             <div class="service-item">
               <i></i>
               <a href="cn_products.html?straight">
-                <img src="/lxd_think/Public/img/portfolio/zhiguan/frontpage.jpg" alt="">
+                <img src="/Public/img/portfolio/zhiguan/frontpage.jpg" alt="">
                 <h4>直管</h4>
               </a>
             </div>
@@ -218,7 +218,7 @@
             <div class="service-item">
               <i></i>
               <a href="cn_products.html?transection">
-                <img src="/lxd_think/Public/img/portfolio/xieqie/frontpage.jpg" alt="">
+                <img src="/Public/img/portfolio/xieqie/frontpage.jpg" alt="">
                 <h4>斜切面</h4>
               </a>
             </div>
@@ -230,7 +230,7 @@
         <section id="contact-form">
           <div class="container">
             <div class="section-title" style="text-align: center;">
-              <h2><a href="./contact.html" style="color:black;">联 系 我 们</a></h2>
+              <h2>联 系 我 们</h2>
             </div>
             <div id="contact-box" class="row">
               <div class="col-md-5 col-md-offset-1 col-sm-12">
@@ -384,13 +384,13 @@
         <div class="modal-content">
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-            <h4 class="modal-title" id="myModalLabel">WeChat QR Code</h4>
+            <h4 class="modal-title" id="myModalLabel">微信公众号：</h4>
           </div>
           <div class="modal-body" style="text-align: center;">
-            <img src="/lxd_think/Public/img/wechat.png" alt="">
+            <img src="/Public/img/wechat.png" alt="">
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
           </div>
         </div>
       </div>

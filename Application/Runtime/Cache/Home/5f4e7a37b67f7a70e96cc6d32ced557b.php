@@ -8,27 +8,27 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-    <link rel="shortcut icon" type="image/x-icon" href="/lxd_think/Public/img/aiermart.ico" media="screen" />
+    <link rel="shortcut icon" type="image/x-icon" href="/Public/img/aiermart.ico" media="screen" />
     <!-- CSS -->
-    <link rel="stylesheet" href="/lxd_think/Public/css/owl.carousel.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/font-awesome.min.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/ionicons.min.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/animate.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/responsive.css">
-    <link rel="stylesheet" href="/lxd_think/Public/css/style.css">
+    <link rel="stylesheet" href="/Public/css/owl.carousel.css">
+    <link rel="stylesheet" href="/Public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/Public/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/Public/css/ionicons.min.css">
+    <link rel="stylesheet" href="/Public/css/animate.css">
+    <link rel="stylesheet" href="/Public/css/responsive.css">
+    <link rel="stylesheet" href="/Public/css/style.css">
 
     <!-- Js -->
     <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=Ur1fqTosAMyUFxDaIjN9WgVR05GC7DfW"></script>
-    <script src="/lxd_think/Public/js/vendor/modernizr-2.6.2.min.js"></script>
-    <script src="/lxd_think/Public/js/vendor/jquery-1.10.2.min.js"></script>
-    <script>window.jQuery || document.write('<script src="/lxd_think/Public/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-    <script src="/lxd_think/Public/js/bootstrap.min.js"></script>
-    <script src="/lxd_think/Public/js/owl.carousel.min.js"></script>
-    <script src="/lxd_think/Public/js/min/waypoints.min.js"></script>
-    <script src="/lxd_think/Public/js/jquery.counterup.js"></script>
-    <script src="/lxd_think/Public/js/plugins.js"></script>
-    <script src="/lxd_think/Public/js/main.js"></script>
+    <script src="/Public/js/vendor/modernizr-2.6.2.min.js"></script>
+    <script src="/Public/js/vendor/jquery-1.10.2.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/Public/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+    <script src="/Public/js/bootstrap.min.js"></script>
+    <script src="/Public/js/owl.carousel.min.js"></script>
+    <script src="/Public/js/min/waypoints.min.js"></script>
+    <script src="/Public/js/jquery.counterup.js"></script>
+    <script src="/Public/js/plugins.js"></script>
+    <script src="/Public/js/main.js"></script>
   </head>
   <body>
 
@@ -52,18 +52,18 @@
                             <span class="icon-bar"></span>
                           </button>
                           <a class="navbar-brand" href="index.html">
-                              <img src="/lxd_think/Public/img/logo.png" alt="Logo">
+                              <img src="/Public/img/logo.png" alt="Logo">
                           </a>
                         </div>
 
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                           <ul class="nav navbar-nav navbar-right">
-                            <li><a href="/lxd_think/Home/Index/cn_index.html">首页</a></li>
-                            <li><a href="/lxd_think/Home/Index/cn_advantages.html">优势</a></li>
-                            <li><a href="/lxd_think/Home/Index/cn_products.html">产品</a></li>
-                            <li><a href="/lxd_think/Home/Index/cn_contact.html">联系方式</a></li>
-                            <li><a href="/lxd_think/Home/Index/index.html">English</a></li>
+                            <li><a href="/Home/Index/cn_index.html">首页</a></li>
+                            <li><a href="/Home/Index/cn_advantages.html">优势</a></li>
+                            <li><a href="/Home/Index/cn_products.html">产品</a></li>
+                            <li><a href="/Home/Index/cn_contact.html">联系方式</a></li>
+                            <li><a href="/Home/Index/index.html">English</a></li>
                           </ul>
                         </div><!-- /.navbar-collapse -->
                       </div><!-- /.container-fluid -->
@@ -112,120 +112,120 @@
                     <ul id="portfolio-contant-active">
                       <!-- 单层螺旋管 -->
                       <li class="mix Single-layer" >
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/danceng/1.jpg" alt="" onclick="openModal();currentSlide(1)">
+                          <img id="img" class="min" src="/Public/img/portfolio/danceng/1.jpg" alt="" onclick="openModal();currentSlide(1)">
                       </li>
                       <li class="mix Single-layer">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/danceng/2.jpg" alt="" onclick="openModal();currentSlide(2)">
+                          <img id="img" class="min" src="/Public/img/portfolio/danceng/2.jpg" alt="" onclick="openModal();currentSlide(2)">
                       </li>
                       <li class="mix Single-layer">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/danceng/3.jpg" alt="" onclick="openModal();currentSlide(3)">
+                          <img id="img" class="min" src="/Public/img/portfolio/danceng/3.jpg" alt="" onclick="openModal();currentSlide(3)">
                       </li>
 
 
                       <!-- 双层螺旋管 -->
                       <li class="mix double-layer">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/shuangceng/1.jpg" alt="" onclick="openModal();currentSlide(4)">
+                          <img id="img" class="min" src="/Public/img/portfolio/shuangceng/1.jpg" alt="" onclick="openModal();currentSlide(4)">
                       </li>
                       <li class="mix double-layer">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/shuangceng/2.jpg" alt="" onclick="openModal();currentSlide(5)">
+                          <img id="img" class="min" src="/Public/img/portfolio/shuangceng/2.jpg" alt="" onclick="openModal();currentSlide(5)">
                       </li>
                       <li class="mix double-layer">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/shuangceng/3.jpg" alt="" onclick="openModal();currentSlide(6)">
+                          <img id="img" class="min" src="/Public/img/portfolio/shuangceng/3.jpg" alt="" onclick="openModal();currentSlide(6)">
                       </li>
                       <li class="mix double-layer">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/shuangceng/4.jpg" alt="" onclick="openModal();currentSlide(7)">
+                          <img id="img" class="min" src="/Public/img/portfolio/shuangceng/4.jpg" alt="" onclick="openModal();currentSlide(7)">
                       </li>
                       <li class="mix double-layer">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/shuangceng/5.jpg" alt="" onclick="openModal();currentSlide(8)">
+                          <img id="img" class="min" src="/Public/img/portfolio/shuangceng/5.jpg" alt="" onclick="openModal();currentSlide(8)">
                       </li>
                       <li class="mix double-layer">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/shuangceng/6.jpg" alt="" onclick="openModal();currentSlide(9)">
+                          <img id="img" class="min" src="/Public/img/portfolio/shuangceng/6.jpg" alt="" onclick="openModal();currentSlide(9)">
                       </li>
                       <!-- 弯管 -->
                       <li class="mix bent">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/wanguan/1.jpg" alt="" onclick="openModal();currentSlide(10)">
+                          <img id="img" class="min" src="/Public/img/portfolio/wanguan/1.jpg" alt="" onclick="openModal();currentSlide(10)">
                       </li>
                       <li class="mix bent">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/wanguan/2.jpg" alt="" onclick="openModal();currentSlide(11)">
+                          <img id="img" class="min" src="/Public/img/portfolio/wanguan/2.jpg" alt="" onclick="openModal();currentSlide(11)">
                       </li>
 
                       <!-- 倒伏 -->
                       <li class="mix logding">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/daofu/1.jpg" alt="" onclick="openModal();currentSlide(12)">
+                          <img id="img" class="min" src="/Public/img/portfolio/daofu/1.jpg" alt="" onclick="openModal();currentSlide(12)">
                       </li>
                       <li class="mix logding">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/daofu/2.jpg" alt="" onclick="openModal();currentSlide(13)">
+                          <img id="img" class="min" src="/Public/img/portfolio/daofu/2.jpg" alt="" onclick="openModal();currentSlide(13)">
                       </li>
                       <li class="mix logding">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/daofu/3.jpg" alt="" onclick="openModal();currentSlide(14)">
+                          <img id="img" class="min" src="/Public/img/portfolio/daofu/3.jpg" alt="" onclick="openModal();currentSlide(14)">
                       </li>
                       <li class="mix logding">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/daofu/4.jpg" alt="" onclick="openModal();currentSlide(15)">
+                          <img id="img" class="min" src="/Public/img/portfolio/daofu/4.jpg" alt="" onclick="openModal();currentSlide(15)">
                       </li>
                       <!-- 直管 -->
                       <li class="mix straight">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/zhiguan/1.jpg" alt="" onclick="openModal();currentSlide(16)">
+                          <img id="img" class="min" src="/Public/img/portfolio/zhiguan/1.jpg" alt="" onclick="openModal();currentSlide(16)">
                       </li>
                       <li class="mix straight">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/zhiguan/2.jpg" alt="" onclick="openModal();currentSlide(17)">
+                          <img id="img" class="min" src="/Public/img/portfolio/zhiguan/2.jpg" alt="" onclick="openModal();currentSlide(17)">
                       </li>
                       <li class="mix straight">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/zhiguan/3.jpg" alt="" onclick="openModal();currentSlide(18)">
+                          <img id="img" class="min" src="/Public/img/portfolio/zhiguan/3.jpg" alt="" onclick="openModal();currentSlide(18)">
                       </li>
                       <li class="mix straight">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/zhiguan/4.jpg" alt="" onclick="openModal();currentSlide(19)">
+                          <img id="img" class="min" src="/Public/img/portfolio/zhiguan/4.jpg" alt="" onclick="openModal();currentSlide(19)">
                       </li>
                       <li class="mix straight">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/zhiguan/5.jpg" alt="" onclick="openModal();currentSlide(20)">
+                          <img id="img" class="min" src="/Public/img/portfolio/zhiguan/5.jpg" alt="" onclick="openModal();currentSlide(20)">
                       </li>
                       <li class="mix straight">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/zhiguan/6.jpg" alt="" onclick="openModal();currentSlide(21)">
+                          <img id="img" class="min" src="/Public/img/portfolio/zhiguan/6.jpg" alt="" onclick="openModal();currentSlide(21)">
                       </li>
                       <li class="mix straight">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/zhiguan/7.jpg" alt="" onclick="openModal();currentSlide(22)">
+                          <img id="img" class="min" src="/Public/img/portfolio/zhiguan/7.jpg" alt="" onclick="openModal();currentSlide(22)">
                       </li>
                       <li class="mix straight">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/zhiguan/8.jpg" alt="" onclick="openModal();currentSlide(23)">
+                          <img id="img" class="min" src="/Public/img/portfolio/zhiguan/8.jpg" alt="" onclick="openModal();currentSlide(23)">
                       </li>
                       <li class="mix straight">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/zhiguan/9.jpg" alt="" onclick="openModal();currentSlide(24)">
+                          <img id="img" class="min" src="/Public/img/portfolio/zhiguan/9.jpg" alt="" onclick="openModal();currentSlide(24)">
                       </li>
                       <li class="mix straight">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/zhiguan/10.jpg" alt="" onclick="openModal();currentSlide(25)">
+                          <img id="img" class="min" src="/Public/img/portfolio/zhiguan/10.jpg" alt="" onclick="openModal();currentSlide(25)">
                       </li>
                       <li class="mix straight">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/zhiguan/11.jpg" alt="" onclick="openModal();currentSlide(26)">
+                          <img id="img" class="min" src="/Public/img/portfolio/zhiguan/11.jpg" alt="" onclick="openModal();currentSlide(26)">
                       </li>
                       <li class="mix straight">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/zhiguan/12.jpg" alt="" onclick="openModal();currentSlide(27)">
+                          <img id="img" class="min" src="/Public/img/portfolio/zhiguan/12.jpg" alt="" onclick="openModal();currentSlide(27)">
                       </li>
                       <li class="mix straight">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/zhiguan/13.jpg" alt="" onclick="openModal();currentSlide(28)">
+                          <img id="img" class="min" src="/Public/img/portfolio/zhiguan/13.jpg" alt="" onclick="openModal();currentSlide(28)">
                       </li>
                       <!-- 斜切面 -->
                       <li class="mix transection">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/xieqie/1.jpg" alt="" onclick="openModal();currentSlide(29)">
+                          <img id="img" class="min" src="/Public/img/portfolio/xieqie/1.jpg" alt="" onclick="openModal();currentSlide(29)">
                       </li>
                       <li class="mix transection">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/xieqie/2.jpg" alt="" onclick="openModal();currentSlide(30)">
+                          <img id="img" class="min" src="/Public/img/portfolio/xieqie/2.jpg" alt="" onclick="openModal();currentSlide(30)">
                       </li>
                       <li class="mix transection">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/xieqie/3.jpg" alt="" onclick="openModal();currentSlide(31)">
+                          <img id="img" class="min" src="/Public/img/portfolio/xieqie/3.jpg" alt="" onclick="openModal();currentSlide(31)">
                       </li>
                       <li class="mix transection">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/xieqie/4.jpg" alt="" onclick="openModal();currentSlide(32)">
+                          <img id="img" class="min" src="/Public/img/portfolio/xieqie/4.jpg" alt="" onclick="openModal();currentSlide(32)">
                       </li>
                       <li class="mix transection">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/xieqie/5.jpg" alt="" onclick="openModal();currentSlide(33)">
+                          <img id="img" class="min" src="/Public/img/portfolio/xieqie/5.jpg" alt="" onclick="openModal();currentSlide(33)">
                       </li>
                       <li class="mix transection">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/xieqie/6.jpg" alt="" onclick="openModal();currentSlide(34)">
+                          <img id="img" class="min" src="/Public/img/portfolio/xieqie/6.jpg" alt="" onclick="openModal();currentSlide(34)">
                       </li>
                       <li class="mix transection">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/xieqie/7.jpg" alt="" onclick="openModal();currentSlide(35)">
+                          <img id="img" class="min" src="/Public/img/portfolio/xieqie/7.jpg" alt="" onclick="openModal();currentSlide(35)">
                       </li>
                       <li class="mix transection">
-                          <img id="img" class="min" src="/lxd_think/Public/img/portfolio/xieqie/8.jpg" alt="" onclick="openModal();currentSlide(36)">
+                          <img id="img" class="min" src="/Public/img/portfolio/xieqie/8.jpg" alt="" onclick="openModal();currentSlide(36)">
                       </li>
                     </ul>
                   </div>
@@ -241,120 +241,120 @@
                       <div class="mymodal-content">
 <!-- 单层管 -->
                         <div class="mySlides">
-                          <img src="/lxd_think/Public/img/source/danceng/1.jpg" style="width:100%">
+                          <img src="/Public/img/source/danceng/1.jpg" style="width:100%">
                         </div>
                         <div class="mySlides">
-                          <img src="/lxd_think/Public/img/source/danceng/2.jpg" style="width:100%">
+                          <img src="/Public/img/source/danceng/2.jpg" style="width:100%">
                         </div>
                         <div class="mySlides">
-                          <img src="/lxd_think/Public/img/source/danceng/3.jpg" style="width:100%">
+                          <img src="/Public/img/source/danceng/3.jpg" style="width:100%">
                         </div>
 <!-- 双层管 -->
                         <div class="mySlides">
-                          <img src="/lxd_think/Public/img/source/shuangceng/1.jpg" style="width:100%">
+                          <img src="/Public/img/source/shuangceng/1.jpg" style="width:100%">
                         </div>
                         <div class="mySlides">
-                          <img src="/lxd_think/Public/img/source/shuangceng/2.jpg" style="width:100%">
+                          <img src="/Public/img/source/shuangceng/2.jpg" style="width:100%">
                         </div>
                         <div class="mySlides">
-                          <img src="/lxd_think/Public/img/source/shuangceng/3.jpg" style="width:100%">
+                          <img src="/Public/img/source/shuangceng/3.jpg" style="width:100%">
                         </div>
                         <div class="mySlides">
-                          <img src="/lxd_think/Public/img/source/shuangceng/4.jpg" style="width:100%">
+                          <img src="/Public/img/source/shuangceng/4.jpg" style="width:100%">
                         </div>
                         <div class="mySlides">
-                          <img src="/lxd_think/Public/img/source/shuangceng/5.jpg" style="width:100%">
+                          <img src="/Public/img/source/shuangceng/5.jpg" style="width:100%">
                         </div>
                         <div class="mySlides">
-                          <img src="/lxd_think/Public/img/source/shuangceng/6.jpg" style="width:100%">
+                          <img src="/Public/img/source/shuangceng/6.jpg" style="width:100%">
                         </div>
                         <div class="caption-container">
                           <p id="caption"></p>
                         </div>
 <!-- 弯管 -->
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/wanguan/1.jpg" style="width:100%">
+                        <img src="/Public/img/source/wanguan/1.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/wanguan/2.jpg" style="width:100%">
+                        <img src="/Public/img/source/wanguan/2.jpg" style="width:100%">
                       </div>
 <!-- 倒伏 -->
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/daofu/1.jpg" style="width:100%">
+                        <img src="/Public/img/source/daofu/1.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/daofu/2.jpg" style="width:100%">
+                        <img src="/Public/img/source/daofu/2.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/daofu/3.jpg" style="width:100%">
+                        <img src="/Public/img/source/daofu/3.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/daofu/4.jpg" style="width:100%">
+                        <img src="/Public/img/source/daofu/4.jpg" style="width:100%">
                       </div>
 <!-- 直管 -->
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/zhiguan/1.jpg" style="width:100%">
+                        <img src="/Public/img/source/zhiguan/1.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/zhiguan/2.jpg" style="width:100%">
+                        <img src="/Public/img/source/zhiguan/2.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/zhiguan/3.jpg" style="width:100%">
+                        <img src="/Public/img/source/zhiguan/3.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/zhiguan/4.jpg" style="width:100%">
+                        <img src="/Public/img/source/zhiguan/4.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/zhiguan/5.jpg" style="width:100%">
+                        <img src="/Public/img/source/zhiguan/5.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/zhiguan/6.jpg" style="width:100%">
+                        <img src="/Public/img/source/zhiguan/6.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/zhiguan/7.jpg" style="width:100%">
+                        <img src="/Public/img/source/zhiguan/7.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/zhiguan/8.jpg" style="width:100%">
+                        <img src="/Public/img/source/zhiguan/8.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/zhiguan/9.jpg" style="width:100%">
+                        <img src="/Public/img/source/zhiguan/9.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/zhiguan/10.jpg" style="width:100%">
+                        <img src="/Public/img/source/zhiguan/10.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/zhiguan/11.jpg" style="width:100%">
+                        <img src="/Public/img/source/zhiguan/11.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/zhiguan/12.jpg" style="width:100%">
+                        <img src="/Public/img/source/zhiguan/12.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/zhiguan/13.jpg" style="width:100%">
+                        <img src="/Public/img/source/zhiguan/13.jpg" style="width:100%">
                       </div>
 <!-- 斜切面 -->
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/xieqie/1.jpg" style="width:100%">
+                        <img src="/Public/img/source/xieqie/1.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/xieqie/2.jpg" style="width:100%">
+                        <img src="/Public/img/source/xieqie/2.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/xieqie/3.jpg" style="width:100%">
+                        <img src="/Public/img/source/xieqie/3.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/xieqie/4.jpg" style="width:100%">
+                        <img src="/Public/img/source/xieqie/4.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/xieqie/5.jpg" style="width:100%">
+                        <img src="/Public/img/source/xieqie/5.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/xieqie/6.jpg" style="width:100%">
+                        <img src="/Public/img/source/xieqie/6.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/xieqie/7.jpg" style="width:100%">
+                        <img src="/Public/img/source/xieqie/7.jpg" style="width:100%">
                       </div>
                       <div class="mySlides">
-                        <img src="/lxd_think/Public/img/source/xieqie/8.jpg" style="width:100%">
+                        <img src="/Public/img/source/xieqie/8.jpg" style="width:100%">
                       </div>
 
                       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -437,13 +437,13 @@
         <div class="modal-content">
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-            <h4 class="modal-title" id="myModalLabel">WeChat QR Code</h4>
+            <h4 class="modal-title" id="myModalLabel">微信公众号：</h4>
           </div>
           <div class="modal-body" style="text-align: center;">
-            <img src="/lxd_think/Public/img/wechat.png" alt="">
+            <img src="/Public/img/wechat.png" alt="">
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
           </div>
         </div>
       </div>
